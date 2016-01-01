@@ -5,15 +5,15 @@
 
 ** Installation
 
-   #   The package is available in MELPA. `M-x` `package-install`
-   #   `light-theme`.
+   #   The package is available in MELPA. =M-x= =package-install=
+   #   =light-theme=.
 
    To install this theme clone this repository and place
-   `light-theme.el` it in your Emacs theme folder.
+   =light-theme.el= it in your Emacs theme folder.
 
 ** Configuration
 
-   Check it out using `(load-theme 'light-theme)` or ad it to your `.emacs`.
+   Check it out using =(load-theme 'light-theme)= or ad it to your =.emacs=.
 
 ** Credits
 
