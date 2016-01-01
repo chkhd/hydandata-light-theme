@@ -20,3 +20,7 @@
    The theme was extracted from
    https://github.com/senny/theme-roller.el and modified to use
    deftheme.
+
+** Screenshot
+
+   [[file:light-theme-screenshot.png]]
