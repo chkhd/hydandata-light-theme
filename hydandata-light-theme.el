@@ -1,4 +1,4 @@
-;;; package --- A light color theme that is easy on your eyes
+;;; hydandata-light-theme.el --- A light color theme that is easy on your eyes
 
 ;; Copyright (C) 2016 David Chkhikvadze
 ;; Copyright (C) 2010 Yves Senn
