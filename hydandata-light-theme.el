@@ -35,11 +35,11 @@
 
 ;;; Code:
 
-(deftheme light
+(deftheme hydandata-light
   "Light theme based on the one included with theme-roller by Yves Senn.")
 
 (custom-theme-set-faces
- 'light
+ 'hydandata-light
  '(default ((t (:inherit nil :height 130 :stipple nil :background "#f8f8ff" :foreground "black" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal))))
  '(hl-line ((t (:background "#effca6"))))
  '(highlight ((t (:background "#acc3e6"))))
@@ -151,6 +151,6 @@
    'custom-theme-load-path
    (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'light)
+(provide-theme 'hydandata-light)
 
-;;; light-theme.el ends here
+;;; hydandata-light-theme.el ends here
