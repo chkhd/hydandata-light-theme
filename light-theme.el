@@ -145,6 +145,12 @@
  '(border-glyph ((t (nil)))) ; flat borders
  '(left-fringe ((t (nil)))))
 
+;;;###autoload
+(when load-file-name
+  (add-to-list
+   'custom-theme-load-path
+   (file-name-as-directory (file-name-directory load-file-name))))
+
 (provide-theme 'light)
 
 ;;; light-theme.el ends here
