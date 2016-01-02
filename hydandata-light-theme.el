@@ -40,7 +40,7 @@
 
 (custom-theme-set-faces
  'hydandata-light
- '(default ((t (:inherit nil :height 130 :stipple nil :background "#f8f8ff" :foreground "black" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal))))
+ '(default ((t (:inherit nil :stipple nil :background "#f8f8ff" :foreground "black" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal))))
  '(hl-line ((t (:background "#effca6"))))
  '(highlight ((t (:background "#acc3e6"))))
  '(region ((t (:background "#bcd5fa"))))
