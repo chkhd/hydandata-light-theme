@@ -6,7 +6,7 @@
 ;;; Author: David Chkhikvadze <david.chk@outlook.com>
 ;;; Version: 0.2
 ;;; Created: 01 January 2016
-;;; Keywords: emacs color-theme theme
+;;; Keywords: color-theme theme
 
 ;;; This file is NOT part of GNU Emacs.
 
