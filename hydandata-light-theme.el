@@ -48,6 +48,8 @@
  '(minibuffer-prompt ((t (:foreground "#445588"))))
  '(minibuffer-noticeable-prompt ((t (:foreground "#445588"))))
  '(link ((t (:foreground "blue1" :underline t))))
+ '(fringe ((t (:background "gray95" :foreground "black"))))
+ '(linum ((t (:inherit fringe))))
 
  '(show-paren-match ((t (:background "#bcd5fa" :foreground "white"))))
  '(show-paren-mismatch ((t (:bold t :background "#9d1e15" :foreground "#f8f8f8"))))
