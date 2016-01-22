@@ -5,10 +5,10 @@
 
 ** Installation
 
-   #   The package is available in MELPA. =M-x= =package-install=
-   #   =hydandata-light-theme=.
+   This package is available in MELPA. =M-x= =package-install=
+   =hydandata-light-theme=.
 
-   To install this theme clone this repository and place
+   To manually install this theme, clone this repository and place
    =hydandata-light-theme.el= it in your Emacs theme folder.
 
 ** Configuration
