@@ -85,6 +85,13 @@
  '(flymake-errline ((t (:bold t :background "#9d1e15" :foreground "#f8f8f8"))))
  '(flymake-warnline ((t (:inherit font-lock-warning-face))))
 
+ '(flycheck-error ((t (:inherit font-lock-warning-face))))
+ '(flycheck-error-list-error ((t (:inherit font-lock-warning-face))))
+ '(flycheck-fringe-error ((t (:inherit font-lock-warning-face))))
+ '(flycheck-color-mode-line-info-face ((t (:inherit highlight))))
+ '(flycheck-color-mode-line-warning-face ((t (:inherit flycheck-fringe-error))))
+ '(flycheck-color-mode-line-error-face ((t (:inherit flycheck-fringe-error))))
+
  '(diff-header ((t (:background "LightSteelBlue3"))))
  '(diff-file-header ((t (:inherit diff-header :bold t))))
  '(diff-added ((t (:background "DarkOliveGreen3"))))
