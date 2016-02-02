@@ -1,4 +1,4 @@
-* hydandata-light-theme
+# hydandata-light-theme
 
   A light color theme with a bluish tint that is very easy on your
   eyes.
