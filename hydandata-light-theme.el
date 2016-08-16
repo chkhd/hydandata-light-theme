@@ -50,6 +50,7 @@
  '(link ((t (:foreground "blue1" :underline t))))
  '(fringe ((t (:background "gray95" :foreground "black"))))
  '(linum ((t (:inherit fringe))))
+ '(cursor ((t (:foreground "black" :background "black"))))
 
  '(show-paren-match ((t (:background "#bcd5fa" :foreground "white"))))
  '(show-paren-mismatch ((t (:bold t :background "#9d1e15" :foreground "#f8f8f8"))))
