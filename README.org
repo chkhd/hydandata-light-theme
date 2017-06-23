@@ -17,8 +17,8 @@
 
 ** Credits
 
-   The theme was extracted from
-   https://github.com/senny/theme-roller.el and modified to use
+   The theme was originally extracted from
+   https://github.com/senny/theme-roller.el extended and modified to use
    deftheme.
 
 ** Screenshot
