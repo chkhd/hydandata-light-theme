@@ -1,9 +1,10 @@
 ;;; hydandata-light-theme.el --- A light color theme that is easy on your eyes
 
-;;; Copyright (C) 2016 David Chkhikvadze
+;;; Copyright (C) 2019 David Chkhikvadze
 ;;; Copyright (C) 2010 Yves Senn
 
-;;; Author: David Chkhikvadze <david.chk@outlook.com>
+;;; Author: David Chkhikvadze <david@chkhd.net>
+;;; Homepage: https://github.com/chkhd/hydandata-light-theme
 ;;; Version: 0.2
 ;;; Created: 01 January 2016
 ;;; Keywords: color-theme theme
